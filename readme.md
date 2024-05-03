@@ -41,7 +41,7 @@ Before running the server, ensure you have the following installed on your machi
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/social-network-api.git
+git clone [https://github.com/your-username/social-network-api.git](https://github.com/LorenzoRiosWeb/social-network-api)
 ```
 
 2. Install dependencies:
