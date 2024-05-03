@@ -6,7 +6,7 @@ Certainly! Here's the content in a single file:
 This project is a Social Network API built using MongoDB, Mongoose, and Express. It allows users to perform various operations such as creating, deleting, and updating users, adding and removing friends, adding and removing thoughts, as well as adding and removing reactions to thoughts.
 
 # Screen Shot
-[Screenshot (53)](https://github.com/LorenzoRiosWeb/social-network-api/assets/100882991/190623c0-ac25-48c2-a511-60b46dd21852)
+![Screenshot](https://github.com/LorenzoRiosWeb/social-network-api/blob/main/assets/100882991/190623c0-ac25-48c2-a511-60b46dd21852.png)
 
 
 ## Table of Contents
